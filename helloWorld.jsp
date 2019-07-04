@@ -9,7 +9,7 @@
 <body>
 		
 		 <%   
-			for(int i = 1; i <=  25; i+=1) 
+			for(int i = 1; i <= 5; i+=1) 
 				{  %>
 				<B><br > <% out.println("Hello World....."+i); %> &nbsp; </B> <br />
 				<%} 
